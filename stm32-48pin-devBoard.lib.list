@@ -9,3 +9,5 @@ libs/USB2.lib
 libs/VREG_VOUTCENTER.lib
 libs/BTN_SPST.lib
 libs/P02.lib
+libs/P24.lib
+libs/JTAG10.lib
