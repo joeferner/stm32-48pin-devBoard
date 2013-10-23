@@ -1,7 +1,8 @@
 libs/3.3V.lib
-libs/GND.lib
+libs/GND2.lib
 libs/R.lib
 libs/C.lib
 libs/STM32-48PIN.lib
 libs/CRYSTAL.lib
-libs/USB.lib
+libs/USB2.lib
+libs/P02.lib
