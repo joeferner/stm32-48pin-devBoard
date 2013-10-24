@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-10-19 BZR 4403)-product date = Wed 23 Oct 2013 09:16:42 PM EDT
+Cmp-Mod V01 Created by CvPcb (2013-10-19 BZR 4403)-product date = Wed 23 Oct 2013 09:28:08 PM EDT
 
 BeginCmp
 TimeStamp = /526749DE;
@@ -179,14 +179,14 @@ BeginCmp
 TimeStamp = /5267E6B6;
 Reference = P6;
 ValeurCmp = P24;
-IdModule  = ;
+IdModule  = stm32:HDRV24W66P254_1X24_6096X249X838P;
 EndCmp
 
 BeginCmp
 TimeStamp = /5267F8E2;
 Reference = P7;
 ValeurCmp = P24;
-IdModule  = ;
+IdModule  = stm32:HDRV24W66P254_1X24_6096X249X838P;
 EndCmp
 
 BeginCmp
