@@ -12,3 +12,5 @@ libs/P02.lib
 libs/P24.lib
 libs/JTAG10.lib
 libs/PWR_FLAG.lib
+libs/MECH.lib
+libs/LED.lib

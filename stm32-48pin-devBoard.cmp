@@ -1,0 +1,311 @@
+Cmp-Mod V01 Created by CvPcb (2013-10-19 BZR 4403)-product date = Wed 23 Oct 2013 09:16:42 PM EDT
+
+BeginCmp
+TimeStamp = /526749DE;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52674460;
+Reference = C2;
+ValeurCmp = 47pF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267446B;
+Reference = C3;
+ValeurCmp = 47pF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52673CA9;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52673C9E;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52673C93;
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52674064;
+Reference = C7;
+ValeurCmp = 18pF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52674085;
+Reference = C8;
+ValeurCmp = 18pF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52673C88;
+Reference = C9;
+ValeurCmp = 0.1uF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52673C5F;
+Reference = C10;
+ValeurCmp = 0.1uF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267406F;
+Reference = C11;
+ValeurCmp = 18pF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267407A;
+Reference = C12;
+ValeurCmp = 18pF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267C03C;
+Reference = C13;
+ValeurCmp = 0.1uF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267C031;
+Reference = C14;
+ValeurCmp = 10uF;
+IdModule  = stm32:CAPC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52687672;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = stm32:LEDC3216X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267425A;
+Reference = J1;
+ValeurCmp = USB;
+IdModule  = stm32:JST_UB-MC5BR3-SD204-4S-NMP;
+EndCmp
+
+BeginCmp
+TimeStamp = /52687603;
+Reference = M1;
+ValeurCmp = Mounting Hole;
+IdModule  = stm32:MTGNP565H328Z565P;
+EndCmp
+
+BeginCmp
+TimeStamp = /52687615;
+Reference = M2;
+ValeurCmp = Mounting Hole;
+IdModule  = stm32:MTGNP565H328Z565P;
+EndCmp
+
+BeginCmp
+TimeStamp = /52687620;
+Reference = M3;
+ValeurCmp = Mounting Hole;
+IdModule  = stm32:MTGNP565H328Z565P;
+EndCmp
+
+BeginCmp
+TimeStamp = /5268762B;
+Reference = M4;
+ValeurCmp = Mounting Hole;
+IdModule  = stm32:MTGNP565H328Z565P;
+EndCmp
+
+BeginCmp
+TimeStamp = /52674B96;
+Reference = P1;
+ValeurCmp = USB-DISCONNECT;
+IdModule  = stm32:HDRV2W66P254_1X2_508X249X838P;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267EC84;
+Reference = P2;
+ValeurCmp = VBAT;
+IdModule  = stm32:HDRV2W66P254_1X2_508X249X838P;
+EndCmp
+
+BeginCmp
+TimeStamp = /52674CCB;
+Reference = P3;
+ValeurCmp = VSEL;
+IdModule  = stm32:HDRV2W66P254_1X2_508X249X838P;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267483C;
+Reference = P4;
+ValeurCmp = BOOT0;
+IdModule  = stm32:HDRV2W66P254_1X2_508X249X838P;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267E3A2;
+Reference = P5;
+ValeurCmp = JTAG10;
+IdModule  = stm32:SHDRV10W66P254_2X5_2035X870X609P;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267E6B6;
+Reference = P6;
+ValeurCmp = P24;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267F8E2;
+Reference = P7;
+ValeurCmp = P24;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52674443;
+Reference = R1;
+ValeurCmp = 22R;
+IdModule  = stm32:RESC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52674455;
+Reference = R2;
+ValeurCmp = 22R;
+IdModule  = stm32:RESC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52674C9E;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = stm32:RESC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52674690;
+Reference = R4;
+ValeurCmp = 1.5k;
+IdModule  = stm32:RESC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /526752B8;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = stm32:RESC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267509E;
+Reference = R6;
+ValeurCmp = 1k;
+IdModule  = stm32:RESC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52675093;
+Reference = R7;
+ValeurCmp = 1k;
+IdModule  = stm32:RESC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52675079;
+Reference = R8;
+ValeurCmp = 1k;
+IdModule  = stm32:RESC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /526751F3;
+Reference = R9;
+ValeurCmp = 1k;
+IdModule  = stm32:RESC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /526751FE;
+Reference = R10;
+ValeurCmp = 1k;
+IdModule  = stm32:RESC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52687AA1;
+Reference = R11;
+ValeurCmp = 100R;
+IdModule  = stm32:RESC2012X100N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267C285;
+Reference = S1;
+ValeurCmp = RESET;
+IdModule  = stm32:CKCOMP-PTS525SM10SMTR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52674B42;
+Reference = U1;
+ValeurCmp = ZXMP2120FFTA;
+IdModule  = stm32:SOT95P237X112_123-3N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52674CB4;
+Reference = U2;
+ValeurCmp = ZLDO1117;
+IdModule  = stm32:SOT230P700X180-4N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52673BE5;
+Reference = U3;
+ValeurCmp = STM32-48PIN;
+IdModule  = stm32:QFP50P900X900X160-48N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267401D;
+Reference = X1;
+ValeurCmp = 32kHz;
+IdModule  = stm32:XTAL8045X200N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5267403E;
+Reference = X2;
+ValeurCmp = 8MHz;
+IdModule  = stm32:XTAL8045X200N;
+EndCmp
+
+EndListe
