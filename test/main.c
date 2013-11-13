@@ -22,7 +22,7 @@ void setup() {
   gpioConfig.GPIO_Pin = GPIO_Pin_0;
   gpioConfig.GPIO_Mode = GPIO_Mode_Out_PP;
   gpioConfig.GPIO_Speed = GPIO_Speed_50MHz;
-  GPIO_Init(GPIOA, &GPIO_Config);
+  GPIO_Init(GPIOA, &gpioConfig);
 }
 
 void loop() {
