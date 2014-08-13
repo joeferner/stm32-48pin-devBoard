@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name stm32)(type Legacy)(uri /home/jferner/dev/stm32-48pin-devBoard/stm32-48pin-devBoard.mod)(options "")(descr ""))
+  (lib (name stm32)(type KiCad)(uri /home/jferner/dev/stm32-48pin-devBoard/mods)(options "")(descr ""))
 )
