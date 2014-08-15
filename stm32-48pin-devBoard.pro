@@ -1,6 +1,6 @@
-update=Wed 23 Oct 2013 08:58:40 PM EDT
+update=Thu 14 Aug 2014 07:53:03 PM EDT
 version=1
-last_client=cvpcb
+last_client=kicad
 [pcbnew]
 version=1
 LastNetListRead=
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [pcbnew/libraries]
 LibName1=stm32-48pin-devBoard
 LibDir=
-[general]
-version=1
 [eeschema]
 version=1
 PageLayoutDescrFile=
@@ -41,3 +39,5 @@ LibName1=stm32-48pin-devBoard
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
